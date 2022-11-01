@@ -8,10 +8,12 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=vicctorneve&theme=redical&hide_border=true&area=true)
 
 ### Skills:
-
-![HTML](./img/html-5.png)
-![CSS](./img/css-3.png)
-![JavaScript](./img/js.png)
+<div style="display: flex; gap:20px;">
+  <img src="./img/html-5.png"> 
+  <img src="./img/css-3.png">
+  <img src="./img/js.png">
+  <img src="./img/node-js-32.png">
+</div>
 
 
 ### Estudando:
