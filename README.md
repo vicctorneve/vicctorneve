@@ -7,7 +7,7 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=vicctorneve&theme=redical&hide_border=true&area=true)
 
-### Conhecimentos:
+### Skills:
 
 ![HTML](./img/html-5.png)
 ![CSS](./img/css-3.png)
