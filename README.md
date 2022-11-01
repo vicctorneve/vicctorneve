@@ -8,11 +8,11 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=vicctorneve&theme=redical&hide_border=true&area=true)
 
 ### Skills:
-<div style="display: flex; gap:20px;">
+<div style="display: flex;">
   <img src="./img/html-5.png"> 
   <img src="./img/css-3.png">
   <img src="./img/js.png">
-  <img src="./img/node-js-32.png">
+  <img src="./img/node-js.png">
 </div>
 
 
