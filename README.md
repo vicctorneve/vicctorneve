@@ -1,27 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Vicctor+Neves;Eu+tenho+18+anos;Atualmente+estudo+Front+End;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
-      
-<div align="center"> 
-  <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=vicctorneve&show_icons=true&count_private=true&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=c9d1d9&bg_color=141321" alt="Vicctor Neves github stats" /> 
-  <img width="41%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicctorneve&layout=compact&hide_border=true&title_color=A9FEF7&text_color=c9d1d9&bg_color=141321" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70A5FD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Vicctor+Neves;Eu+tenho+19+anos;Sou+desenvolvedor+Front+End;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=vicctorneve&theme=redical&hide_border=true&area=true)
+
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=vicctorneve&cc=1A1B27&tc=70A5FD&ic=9F7ACC&bc=000" width="550px" height="200px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vicctorneve&theme=tokyonight" width="400px" height="200px">      
+</div>
 
 ### Skills:
-<div style="display: flex;">
-  <img src="./img/html-5.png"> 
-  <img src="./img/css-3.png">
-  <img src="./img/js.png">
-  <img src="./img/node-js.png">
-</div>
+<p align="center">
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,java,mongodb'/>
+  </a>
+</p>
 
-
-### Estudando:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Contatos:
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicctorneves7@gmail.com)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicctorneves/)
   [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/vicctorneves)
-  
+    
+  ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vicctorneve&theme=tokyo-night)
+
